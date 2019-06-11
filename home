@@ -1,0 +1,97 @@
+<html>
+
+
+<head>
+
+<title>La Costarica Longue</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</head>
+
+
+<body>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <!-- Brand/logo here the logo will appear as well as it will be connected to a link that refers to the same homepage -->
+  <a class="navbar-brand" href="#">La Costarica Longue and Cafe</a>
+  
+  <!-- Links -->
+
+  
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="home.html">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="menu.html">Our Menu</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Hoka Flavors</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://form.jotform.me/91611912037451">Reserve Now</a>
+    </li>
+  </ul>
+
+
+</nav>
+
+<center>
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="alan.jpg " alt="Distinct hocka bar, providing the best and cleanest hocka ever" width="1600px">
+            <div class="carousel-caption">
+            <h3>Flavors</h3>
+            <p>Distinct hocka bar, providing the best and cleanest hocka ever</p>
+    </div>
+    </div>
+    <div class="carousel-item">
+      <img src="karzan.jpg   " alt="A relaxing environment and best service is just here" width="1600px">
+        <div class="carousel-caption">
+        <h3>We Provide Best Services</h3>
+        <p>A relaxing environment and best service is just here!</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="loan.jpg " alt="La Costarica Hocka Bar" width="1600px">
+      <div class="carousel-caption">
+        <h3>The Hocka Bar</h3>
+        <p>Where do you want to visit, LA COSTARICA OF COURSE!</p>
+      </div>   
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
+
+<center>
+
+
+
+</body>
+
+
+</html>
